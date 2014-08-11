@@ -10,7 +10,7 @@ cookieMonster.initWithWhiteList([{
   domain: 'www.blabla.com'
 }, {
   name: 'cookie2',
-  domain:www.blabla.com'
+  domain:'www.blabla.com'
 }]);
 
 ```
