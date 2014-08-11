@@ -1,0 +1,22 @@
+{
+  "name": "cookie-monster",
+  "version": "0.1.1",
+  "description": "cookie monster",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ltebean/cookie-monster.git"
+  },
+  "keywords": [
+    "cookie"
+  ],
+  "author": "ltebean",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ltebean/cookie-monster/issues"
+  },
+  "homepage": "https://github.com/ltebean/cookie-monster"
+}
