@@ -47,7 +47,7 @@
     var possibleDomains = subdomains(window.location.host);
     for (var i = 0; i < possibleDomains.length; i++) {
       cookies.removeItem(name, '/', possibleDomains[i]);
-      console.log('delete cookie: %s %s', name, possibleDomains[i])
+      //console.log('delete cookie: %s %s', name, possibleDomains[i])
     };
   }
 
